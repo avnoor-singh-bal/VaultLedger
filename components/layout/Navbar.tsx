@@ -77,7 +77,7 @@ const NavBar = () => {
                 transition={{ type: "spring", stiffness: 400, damping: 10 }}
               />
               <span className="font-bold text-xl bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-                Inventory Management
+                Vault Ledger
               </span>
             </Link>
           </div>
